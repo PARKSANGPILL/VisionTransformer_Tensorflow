@@ -1,2 +1,1 @@
-# VisionTransformer_Tensorflow
-ViT for Tensorflow
+# ViT for Tensorflow
